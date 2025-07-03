@@ -1,4 +1,4 @@
-### Добро пожаловать и привет! :cherry_blossom:
+### Добро пожаловать и привет!
 Меня зовут Вячеслав. С июля 2023 года я - инженер по тестированию программного обеспечения.</br>
 <!--
 **IExpLouDI/IExpLouDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
